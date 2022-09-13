@@ -1,11 +1,3 @@
 # JavaScipt small problems
 
-My study notes and deliberate practice at solving small Javascript problems. When solving the problems, I used a problem solving method called PEDAC that I learned at Launch School. PEDAC stands for:
-
-P - Understanding the Problem
-E - Writing out the examples or test cases
-D - Think about the data structure to be used
-A - Algorithm
-C - Code
-
-In these problems, I focused more on a declarative approach of solving problems.
+My deliberate practice at solving small Javascript problems. I have solved most of these problems using Ruby before, but now I am solving them again using JavaScript so that I can write the syntax well and familiarise myself with JavaScript functions. 
